@@ -1,4 +1,4 @@
-# CA Challenge Server
+# CA Challenge Server（Deprecated）
 
 Agent Trusted Registration (ATR) 协议中的挑战服务器（Challenge Server）实现。
 
